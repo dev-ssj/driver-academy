@@ -21,7 +21,7 @@
 * OS : Windows 10
 * DBMS : Oracle Database 11g
 * SERVER : Tomcat 9.0
-* Tools : Eclipse
+* Tools : Eclipse IDE 4.19.0
 * Front-End : HTML5, CSS3, BootStrap4, JavaScript, jQuery
 * Back-End : JAVA, JSP/Servlet
 
