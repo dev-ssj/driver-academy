@@ -17,7 +17,7 @@
 * 강사 관리
 * 상담 관리
 
-## 개발환경 및 사용
+## 개발환경 및 사용언어
 * OS : Windows 10
 * DBMS : Oracle Database 11g
 * SERVER : Tomcat 9.0
