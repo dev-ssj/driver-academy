@@ -24,3 +24,7 @@
 * Tools : Eclipse
 * Front-End : HTML5, CSS3, BootStrap4, JavaScript, JQuery
 * Back-End : JAVA, JSP/Servlet
+
+##설계
+* ERD
+<img src="https://user-images.githubusercontent.com/90167476/147130755-0ff30d28-b6e6-4634-be84-6f25bd037234.png"/>
