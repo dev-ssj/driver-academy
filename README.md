@@ -5,6 +5,8 @@
 ## 프로젝트 개요
 사용자는 웹사이트에서 학원에 대한 정보를 확인할 수 있으며 수강신청과 상담신청을 할 수 있다. <br>
 관리자는 회원 관리, 관리자 관리, 공지사항 관리, 강사 관리, 수강 관리, 상담 관리를 할 수 있다.
+* Back End[Back End](https://github.com/dev-ssj/driver-academy/tree/main/driveProject/src/main/java/kr/)
+* Front End[Front End](https://github.com/dev-ssj/driver-academy/tree/main/driveProject/src/main/webapp/WEB-INF/views/)
 
 ## 구현 기능
 * 회원가입
